@@ -10,3 +10,20 @@ One important topic in the course is version control using Git and GitHub. Git a
 Students also learn about continuous integration and continuous delivery (CI/CD). These practices help automate software testing and integration, reducing errors and improving software quality.
 
 GitHub Actions is an example of a CI/CD tool that can automatically execute workflows whenever developers push changes or create pull requests.
+
+Git Branching and Collaboration
+
+Git branching allows developers to work independently without immediately affecting the main version of a project.
+
+Each developer can create their own branch, make changes, and commit their work. These changes can then be reviewed through a pull request before being merged into the main branch.
+
+Pull requests help teams identify errors, discuss improvements, and maintain code quality.
+
+Continuous Integration and Automation
+
+Continuous Integration (CI) involves regularly integrating changes into a shared repository and automatically checking whether those changes work correctly.
+
+GitHub Actions allows developers to configure automated workflows using YAML files stored in the .github/workflows directory.
+
+These workflows can run on events such as pushes and pull requests, helping teams detect problems early in the development process.
+
