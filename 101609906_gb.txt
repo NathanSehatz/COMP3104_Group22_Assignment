@@ -8,3 +8,14 @@ The college emphasizes hands on learning and industry relevant skills to prepare
 Students studying computer programming and related technology programs gain experience with software development, databases, networking, and modern development tools.
 
 George Brown College also encourages teamwork, problem-solving, and communication skills, which are important for students entering the technology industry.
+
+Technology and Career Development
+
+George Brown College provides technology related programs that help students develop skills in programming, software development, cybersecurity, and information technology.
+
+Students gain practical experience through laboratory exercises, group projects, and assignments that simulate real workplace environments.
+
+Collaboration is an important part of these programs because software developers often work in teams using tools such as Git and GitHub to manage projects.
+
+These experiences help students prepare for careers in software development, systems analysis, and other technology related fields.
+
