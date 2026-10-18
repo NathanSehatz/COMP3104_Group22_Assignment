@@ -1,0 +1,12 @@
+
+COMP3104 - Developer Operations
+
+COMP3104 introduces students to DevOps principles, tools, and practices used in modern software development.
+
+DevOps combines software development (Dev) and IT operations (Ops) to improve collaboration, automate processes, and deliver software more efficiently.
+
+One important topic in the course is version control using Git and GitHub. Git allows developers to track changes to their code, while GitHub provides a platform for sharing repositories and collaborating with other developers.
+
+Students also learn about continuous integration and continuous delivery (CI/CD). These practices help automate software testing and integration, reducing errors and improving software quality.
+
+GitHub Actions is an example of a CI/CD tool that can automatically execute workflows whenever developers push changes or create pull requests.
