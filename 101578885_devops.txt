@@ -1,0 +1,8 @@
+COMP3104 DevOps
+
+DevOps brings software development and IT operations together.
+It emphasizes collaboration, automation, and continuous feedback
+to improve how software is built, tested, and delivered.
+
+This assignment provides practice with Git, GitHub, branching,
+pull requests, and continuous integration.
