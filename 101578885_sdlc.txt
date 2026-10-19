@@ -6,3 +6,16 @@ testing, deployment, and maintenance.
 DevOps connects these stages through collaboration, automation,
 and feedback. Teams can identify problems earlier and deliver
 improvements in smaller, more manageable changes.
+
+
+
+
+
+Continuous Integration
+
+Continuous integration uses automated workflows to check changes
+when they are pushed or submitted through pull requests.
+
+GitHub Actions runs workflows defined in .github/workflows/.
+Workflow results help the team identify failures and review
+changes before merging them into main.
