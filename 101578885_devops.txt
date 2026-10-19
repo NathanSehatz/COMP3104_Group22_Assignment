@@ -6,3 +6,16 @@ to improve how software is built, tested, and delivered.
 
 This assignment provides practice with Git, GitHub, branching,
 pull requests, and continuous integration.
+
+
+
+
+
+Version Control and Branching
+
+Git records changes to project files and maintains a history of commits.
+GitHub hosts the shared repository so team members can collaborate.
+
+Each member works on a branch named STUDENTID-Name. Members make
+changes locally, write descriptive commit messages, and open pull
+requests so their work can be reviewed before merging into main.
