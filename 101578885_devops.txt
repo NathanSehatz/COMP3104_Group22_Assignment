@@ -8,14 +8,12 @@ This assignment provides practice with Git, GitHub, branching,
 pull requests, and continuous integration.
 
 
+Resolving Merge Conflicts
 
+A merge conflict can occur when branches change the same lines.
+The developer reviews both versions, keeps the intended content,
+and removes the conflict markers.
 
-
-Version Control and Branching
-
-Git records changes to project files and maintains a history of commits.
-GitHub hosts the shared repository so team members can collaborate.
-
-Each member works on a branch named STUDENTID-Name. Members make
-changes locally, write descriptive commit messages, and open pull
-requests so their work can be reviewed before merging into main.
+After checking the result, the developer stages the resolved files
+and commits the resolution. Regularly bringing main into personal
+branches helps members identify conflicts before the final merge.
