@@ -10,7 +10,6 @@ improvements in smaller, more manageable changes.
 
 
 
-
 Continuous Integration
 
 Continuous integration uses automated workflows to check changes
@@ -19,3 +18,13 @@ when they are pushed or submitted through pull requests.
 GitHub Actions runs workflows defined in .github/workflows/.
 Workflow results help the team identify failures and review
 changes before merging them into main.
+
+Collaboration and Review
+
+During development, individual branches let team members work
+independently. Pull requests provide an opportunity to review
+changes before they become part of the main branch.
+
+During maintenance, commit history helps the team investigate
+problems, understand earlier decisions, and restore previous
+versions when necessary.
