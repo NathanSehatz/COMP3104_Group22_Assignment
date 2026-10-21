@@ -27,3 +27,15 @@ GitHub Actions allows developers to configure automated workflows using YAML fil
 
 These workflows can run on events such as pushes and pull requests, helping teams detect problems early in the development process.
 
+Benefits of DevOps in Team Projects
+
+DevOps is especially useful when multiple developers collaborate on the same project.
+
+Version control systems such as Git allow team members to work independently while maintaining a shared history of changes. GitHub provides tools such as pull requests and code reviews to help teams collaborate effectively.
+
+Automated workflows also reduce repetitive tasks and help ensure that new changes do not introduce problems.
+
+For our COMP3104 Group 22 assignment, we use individual Git branches, descriptive commits, pull requests, and GitHub Actions to demonstrate these DevOps practices.
+
+This approach improves collaboration, accountability, and software development efficiency.
+

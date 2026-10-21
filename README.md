@@ -3,8 +3,8 @@
 
 ## Group Members
 - **Team Leader:** Nathan (101609906) - [GitHub](https://github.com/NathanSehatz)
-- **Member 2:** To be added
-- **Member 3:** To be added
+- **Member 2:** Colin (101523487) - No contribution
+- **Member 3:** Jamshaid (101578885) - [GitHub](https://github.com/101578885-Jamshaid)
 
 ## Project Description
 This repository contains the COMP3104 DevOps Group Assignment for Group 22.
