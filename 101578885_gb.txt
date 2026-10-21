@@ -1,0 +1,16 @@
+George Brown Polytechnic
+Student: Jamshaid Mirpour
+Student ID: 101578885
+
+George Brown Polytechnic is located in Toronto, Ontario.
+It offers applied learning that connects classroom knowledge with practical skills.
+
+
+
+
+Practical Learning
+
+Programming coursework provides opportunities to practise coding,
+debugging, testing, and documenting applications. Group assignments
+also develop collaboration skills through shared repositories,
+individual branches, and peer review.
