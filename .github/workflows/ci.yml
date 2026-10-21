@@ -1,0 +1,34 @@
+name: Group 22 CI Pipeline
+
+on:
+  push:
+    branches:
+      - main
+      - "101609906-Nathan"
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  verify-repository:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Display workflow information
+        run: |
+          echo "COMP3104 Group 22"
+          echo "GitHub Actions CI Pipeline"
+          echo "Triggered by: ${{ github.event_name }}"
+          echo "Running on: ${{ runner.os }}"
+
+      - name: Verify required project files
+        run: |
+          test -f README.md
+          test -f .github/PULL_REQUEST_TEMPLATE.md
+          echo "Required group documentation exists."
+
+      - name: Confirm CI completion
+        run: echo "Group 22 CI workflow completed successfully!"
