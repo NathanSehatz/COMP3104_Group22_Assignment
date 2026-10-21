@@ -3,7 +3,7 @@
 
 ## Group Members
 - **Team Leader:** Nathan (101609906) - [GitHub](https://github.com/NathanSehatz)
-- **Member 2:** To be added
+- **Member 2:** Colin — No contributions received as of submission.
 - **Member 3:** Jamshaid Mirpour (101578885) - [GitHub](https://github.com/spongebobbryant24)
 
 ## Project Description
