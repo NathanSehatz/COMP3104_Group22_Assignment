@@ -43,3 +43,18 @@ Each team member will contribute three text files:
 4. Make at least 10 meaningful commits.
 5. Push changes to GitHub.
 6. Create a pull request to merge changes into main.
+
+## Contribution and Review Checklist
+
+Before merging a member's pull request, verify that:
+
+- Their branch follows the STUDENTID-Name naming convention.
+- Their three required text files are in the repository root.
+- Each file contains relevant information for its topic.
+- They have at least 10 meaningful commits with descriptive messages.
+- Their name, student ID, and GitHub link appear in the README.
+- Any merge conflicts are resolved.
+- The configured GitHub Actions checks pass.
+
+All file changes must be made locally and committed on a personal
+branch. Pull requests are used to review and merge changes into main.
