@@ -10,7 +10,8 @@ that is harder to review;
 chunks of code in a seamless fashion, reducing downtime for the consumer
 /client of the operation.
 ### Part 2
-
+Software Development Life Cycle
 ### Part 3
-
+Agile methodology
 ### Part 4
+
