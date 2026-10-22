@@ -6,9 +6,8 @@ of
 -A) Providing a steady flow of code changes to more easily isolate 
 buggy code, as opposed to uploading a large tangled knot of information 
 that is harder to review;
--B) ~~Having really cool shades~~ Deploying these reviewed and approved
-chunks of code in a seamless fashion, reducing downtime for the consumer
-/client of the operation.
+-B) Deploying these reviewed and approved chunks of code in a seamless 
+fashion, reducing downtime for the consumer/client of the operation.
 ### Part 2
 Software Development Life Cycle
 ### Part 3
