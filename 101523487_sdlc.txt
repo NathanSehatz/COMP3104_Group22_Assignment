@@ -1,0 +1,16 @@
+# On the Importance of DevOps in the software development lifecycle
+## Or: How to make digital pearls
+### Part 1
+Continuous Integration and Continuous Deployment (CI/CD) is the process
+of
+-A) Providing a steady flow of code changes to more easily isolate 
+buggy code, as opposed to uploading a large tangled knot of information 
+that is harder to review;
+-B) Deploying these reviewed and approved chunks of code in a seamless 
+fashion, reducing downtime for the consumer/client of the operation.
+### Part 2
+GitHub's role in the DevOps
+### Part 3
+Software Development Life Cycle
+### Part 4
+Agile methodology

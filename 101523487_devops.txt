@@ -1,0 +1,24 @@
+The COMP2156-sorry, the COMP3104 DevOps course
+is applicable in the T177 and T197 courses (Computer
+Programming and Analysis, in hybrid and online versions respectively)
+requires the COMP3044 course as a prerequisite and teaches
+the following Essential Employability Skills,
+taken from the ecoursemap.com website;
+
+COMMUNICATION
+-Communicate clearly, concisely and correctly in the written, spoken and visual form that fulfills the purpose and meets the needs of the audience.
+-Respond to written, spoken or visual messages in a manner that ensures effective communication.
+NUMERACY
+-Execute mathematical operations accurately.
+CRITICAL THINKING & PROBLEM SOLVING
+-Apply a systematic approach to solve problems.
+-Use a variety of thinking skills to anticipate and solve problems.
+INFORMATION MANAGEMENT
+-Analyze, evaluate and apply relevant information from a variety of sources.
+-Locate, select, organize and document information using appropriate technology and information systems.
+INTERPERSONAL
+-Show respect for diverse opinions, values, belief systems and contributions of others.
+-Interact with others in groups or teams in ways that contribute to effective working relationships and the achievement of goals.
+PERSONAL
+-Manage the use of time and other resources to complete projects.
+-Take responsibility for one's own actions, decisions and consequences.
