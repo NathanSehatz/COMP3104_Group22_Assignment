@@ -9,8 +9,8 @@ that is harder to review;
 -B) Deploying these reviewed and approved chunks of code in a seamless 
 fashion, reducing downtime for the consumer/client of the operation.
 ### Part 2
-Software Development Life Cycle
+GitHub's role in the DevOps
 ### Part 3
-Agile methodology
+Software Development Life Cycle
 ### Part 4
-
+Agile methodology
